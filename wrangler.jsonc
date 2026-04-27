@@ -18,6 +18,12 @@
 			"bucket_name": "cicengem","preview_bucket_name": "cicengem",
 		},
 	],
+	"kv_namespaces": [
+	  {
+ 	   "binding": "SESSION",
+	    "id": "2e6cf2c35bdb4709ad44b9c19ee8f57f"
+	  }
+	]
 	// 	Worker Loader for plugin sandboxing
 	// 	"worker_loaders": [
 	// 		{
