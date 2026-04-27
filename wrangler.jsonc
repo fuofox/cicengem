@@ -18,10 +18,10 @@
 			"bucket_name": "cicengem","preview_bucket_name": "cicengem",
 		},
 	],
-	// Worker Loader for plugin sandboxing
-	"worker_loaders": [
-		{
-			"binding": "LOADER",
-		},
-	],
+	// 	Worker Loader for plugin sandboxing
+	// 	"worker_loaders": [
+	// 		{
+	// 			"binding": "LOADER",
+	// 		},
+	// 	],
 }
